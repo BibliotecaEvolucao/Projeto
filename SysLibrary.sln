@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SysLibrary.Dados", "SysLibr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SysLibrary.Util", "SysLibrary.Util\SysLibrary.Util.csproj", "{2BD21708-DD2B-4808-BC3C-8B75EF96E352}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SysLibrary.Entidades", "SysLibrary.Entidades\SysLibrary.Entidades.csproj", "{9536037B-6271-45A0-A254-DA29283E8FDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{2BD21708-DD2B-4808-BC3C-8B75EF96E352}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BD21708-DD2B-4808-BC3C-8B75EF96E352}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BD21708-DD2B-4808-BC3C-8B75EF96E352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9536037B-6271-45A0-A254-DA29283E8FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9536037B-6271-45A0-A254-DA29283E8FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9536037B-6271-45A0-A254-DA29283E8FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9536037B-6271-45A0-A254-DA29283E8FDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
