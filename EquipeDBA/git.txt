@@ -1,0 +1,5 @@
+Baixar ultima versão do projeto: git pull
+Ver mudanças: git status
+Adc todas mudanças: git add --all
+Comitar mudanças: git commit -m "comentário"
+Subir mudanças: git push origin master
